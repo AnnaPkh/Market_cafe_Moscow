@@ -30,3 +30,7 @@
 ## Используемые библиотеки
 
    pandas, folium, datetime, numpy, matplotlib, seaborn, plotly, warnings, scipy.stats 
+
+## Язык проекта 
+
+   Python
